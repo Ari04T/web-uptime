@@ -2,7 +2,7 @@
   {
     "name": "FMstats",
     "url": "https://fmstats.com",
-    "icon": "https://favicons.githubusercontent.com/fmstats.com",
+    "icon": "https://icons.duckduckgo.com/ip3/fmstats.com.ico",
     "slug": "f-mstats",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 678,
-    "timeWeek": 863,
-    "timeMonth": 682,
-    "timeYear": 707,
+    "time": 706,
+    "timeDay": 571,
+    "timeWeek": 835,
+    "timeMonth": 679,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   }
 ]
