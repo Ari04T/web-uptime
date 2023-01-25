@@ -4,19 +4,19 @@
     "url": "https://fmstats.com",
     "icon": "https://icons.duckduckgo.com/ip3/fmstats.com.ico",
     "slug": "f-mstats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 662,
-    "timeWeek": 600,
-    "timeMonth": 618,
+    "timeDay": 672,
+    "timeWeek": 610,
+    "timeMonth": 620,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 17
     }
   }
 ]
