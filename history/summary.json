@@ -6,17 +6,16 @@
     "slug": "f-mstats",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 634,
-    "timeDay": 622,
+    "timeDay": 705,
     "timeWeek": 610,
-    "timeMonth": 632,
+    "timeMonth": 631,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-01-06": 11,
       "2023-09-13": 16,
       "2023-01-25": 17
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 741,
-    "timeDay": 701,
-    "timeWeek": 730,
+    "time": 743,
+    "timeDay": 956,
+    "timeWeek": 742,
     "timeMonth": 757,
-    "timeYear": 741,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2023-09-12": 30
     }
