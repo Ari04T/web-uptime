@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fmstats.com.ico",
     "slug": "f-mstats",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 646,
-    "timeDay": 562,
-    "timeWeek": 650,
-    "timeMonth": 686,
+    "timeDay": 713,
+    "timeWeek": 668,
+    "timeMonth": 687,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2025-04-02": 879,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 616,
+    "timeDay": 673,
     "timeWeek": 770,
-    "timeMonth": 828,
-    "timeYear": 794,
+    "timeMonth": 826,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   }
 ]
